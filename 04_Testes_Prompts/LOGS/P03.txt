@@ -1,0 +1,24 @@
+[ID] P03
+Objetivo do prompt:
+- Extrair fórmulas e definições para o glossário/fórmulas.
+
+Prompt usado:
+- "Extraia as fórmulas de PME, PMR, PMP, CO, CF e NCG. Explique cada termo em 1 linha e cite onde aparece na fonte."
+
+Variação aplicada (o que mudou):
+- Foco em fórmulas + explicação de cada termo.
+
+Hipótese (o que eu esperava melhorar):
+- Ter um bloco copiável para `FORMULAS.md`.
+
+Resposta (resumo em 3–6 linhas):
+- (Cole aqui.)
+
+Fontes citadas pelo NotebookLM (páginas/trechos):
+- (Cole aqui.)
+
+Avaliação (1–5) + por quê:
+- (Cole aqui.)
+
+Ajuste para próxima rodada:
+- Pedir aplicação no case e interpretação do resultado.

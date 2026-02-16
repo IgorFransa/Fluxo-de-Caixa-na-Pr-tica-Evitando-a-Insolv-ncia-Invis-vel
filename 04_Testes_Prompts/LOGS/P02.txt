@@ -1,0 +1,24 @@
+[ID] P02
+Objetivo do prompt:
+- Forçar uma saída curta, com exemplo de comércio e alertas práticos.
+
+Prompt usado:
+- "Resuma em 8 bullets + 3 alertas + 1 exemplo aplicado a comércio. Cite trechos/páginas."
+
+Variação aplicada (o que mudou):
+- Limitador de formato (8 bullets), inclusão de alertas e exemplo.
+
+Hipótese (o que eu esperava melhorar):
+- Diminuir generalidades e aumentar aplicabilidade ao case.
+
+Resposta (resumo em 3–6 linhas):
+- (Cole aqui.)
+
+Fontes citadas pelo NotebookLM (páginas/trechos):
+- (Cole aqui.)
+
+Avaliação (1–5) + por quê:
+- (Cole aqui.)
+
+Ajuste para próxima rodada:
+- Pedir que diferencie explicitamente "lucro" de "caixa".

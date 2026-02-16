@@ -1,0 +1,24 @@
+[ID] P05
+Objetivo do prompt:
+- Diagnosticar onde o caixa fica preso e obter ações priorizadas.
+
+Prompt usado:
+- "No cenário de comércio, onde o caixa costuma ficar preso (estoque/recebíveis/pagáveis)? Liste 5 ações por impacto (alto→baixo) e inclua trade-offs. Cite trechos."
+
+Variação aplicada (o que mudou):
+- Priorização por impacto e exigência de trade-offs.
+
+Hipótese (o que eu esperava melhorar):
+- Plano de ação pronto para miniguia.
+
+Resposta (resumo em 3–6 linhas):
+- (Cole aqui.)
+
+Fontes citadas pelo NotebookLM (páginas/trechos):
+- (Cole aqui.)
+
+Avaliação (1–5) + por quê:
+- (Cole aqui.)
+
+Ajuste para próxima rodada:
+- Pedir checklist semanal e métricas mínimas.

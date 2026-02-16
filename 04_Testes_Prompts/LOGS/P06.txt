@@ -1,0 +1,24 @@
+[ID] P06
+Objetivo do prompt:
+- Produzir um checklist semanal (ritual de tesouraria) + métricas.
+
+Prompt usado:
+- "Crie um checklist semanal de tesouraria para comércio (1 página). Inclua: o que checar, frequência, responsável, e 6 métricas mínimas. Cite trechos."
+
+Variação aplicada (o que mudou):
+- Formato 1 página, inclusão de responsável e métricas.
+
+Hipótese (o que eu esperava melhorar):
+- Artefato final reutilizável.
+
+Resposta (resumo em 3–6 linhas):
+- (Cole aqui.)
+
+Fontes citadas pelo NotebookLM (páginas/trechos):
+- (Cole aqui.)
+
+Avaliação (1–5) + por quê:
+- (Cole aqui.)
+
+Ajuste para próxima rodada:
+- Pedir versão "ultra curta" para revisão rápida.

@@ -1,0 +1,9 @@
+[ID] PXX
+Objetivo do prompt:
+Prompt usado:
+Variação aplicada (o que mudou):
+Hipótese (o que eu esperava melhorar):
+Resposta (resumo em 3–6 linhas):
+Fontes citadas pelo NotebookLM (páginas/trechos):
+Avaliação (1–5) + por quê:
+Ajuste para próxima rodada:

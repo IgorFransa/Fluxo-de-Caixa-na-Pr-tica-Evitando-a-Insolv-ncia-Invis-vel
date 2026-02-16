@@ -1,0 +1,24 @@
+[ID] P01
+Objetivo do prompt:
+- Gerar um resumo estruturado e verificável (com referência) da fonte principal sobre Fluxo de Caixa.
+
+Prompt usado:
+- "Resuma esta fonte em: (1) conceito; (2) por que importa; (3) erro comum; (4) ação prática. Cite trechos/páginas."
+
+Variação aplicada (o que mudou):
+- Versão base (sem restrição de tamanho).
+
+Hipótese (o que eu esperava melhorar):
+- Obter um resumo enxuto e auditável, com referência direta para usar no miniguia.
+
+Resposta (resumo em 3–6 linhas):
+- (Cole aqui a resposta do NotebookLM.)
+
+Fontes citadas pelo NotebookLM (páginas/trechos):
+- (Cole aqui as referências.)
+
+Avaliação (1–5) + por quê:
+- (Ex.: 4/5 — bom, mas faltou exemplo aplicado a comércio.)
+
+Ajuste para próxima rodada:
+- Pedir 1 exemplo aplicado a comércio e limitar para 8 bullets.

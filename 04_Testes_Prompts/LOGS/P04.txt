@@ -1,0 +1,24 @@
+[ID] P04
+Objetivo do prompt:
+- Aplicar as fórmulas ao case e produzir interpretação + ações.
+
+Prompt usado:
+- "Use PME=45, PMR=30, PMP=20. Calcule CO e CF e interprete o que significa para o caixa. Sugira 3 ações (com trade-offs) e cite trechos."
+
+Variação aplicada (o que mudou):
+- Inclusão de números do case e pedidos de ações + trade-offs.
+
+Hipótese (o que eu esperava melhorar):
+- Transformar teoria em decisão prática.
+
+Resposta (resumo em 3–6 linhas):
+- (Cole aqui.)
+
+Fontes citadas pelo NotebookLM (páginas/trechos):
+- (Cole aqui.)
+
+Avaliação (1–5) + por quê:
+- (Cole aqui.)
+
+Ajuste para próxima rodada:
+- Pedir priorização por impacto/complexidade.
